@@ -2,9 +2,9 @@
 
 ![preview](./.github/preview.png)
 
-Projeto  construido no evento Next Level Week da Rocketseat.
+Projeto construido para o desafio do evento Next Level Week da Rocketseat.
 
-[clique aqui para acessar](https://nooboxdev.github.io/nlw-esports/)
+[clique aqui para acessar](https://nooboxdev.github.io/nlw-desafio/)
 
 ## Tecnologias
 
@@ -15,4 +15,5 @@ Projeto  construido no evento Next Level Week da Rocketseat.
 
 ## Contato
 
-noobox-dev@hotmail.com
+email: [noobox-dev@hotmail.com](mailto:noobox-dev@hotmail.com)
+[Linkedin](https://www.linkedin.com/in/gabriel-costa-01ab8b233/)
