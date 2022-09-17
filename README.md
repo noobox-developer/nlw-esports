@@ -4,7 +4,7 @@
 
 Projeto construido para o desafio do evento Next Level Week da Rocketseat.
 
-[clique aqui para acessar](https://nooboxdev.github.io/nlw-desafio/)
+[clique aqui para acessar](https://nooboxdev.github.io/nlw-esports/)
 
 ## Tecnologias
 
